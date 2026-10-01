@@ -1,10 +1,7 @@
 # wallpapers
 
-```
-curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
-```
-
 | | |
+|:-:|:-:|
 | <img src="pictures/4v3yzp.png" width="400"> | <img src="pictures/k82oq6.jpg" width="400"> |
 | <img src="pictures/qrlwql.png" width="400"> | <img src="pictures/zpd5dj.jpg" width="400"> |
 | <img src="pictures/k7m2qx.png" width="400"> | <img src="pictures/6l2rgq.jpg" width="400"> |
@@ -16,3 +13,7 @@ curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/insta
 | <img src="pictures/vpel8p.jpg" width="400"> | <img src="pictures/qrol25.jpg" width="400"> |
 | <img src="pictures/y8w8vl.jpg" width="400"> | <img src="pictures/x9b4y1.jpg" width="400"> |
 | <img src="pictures/lygzqq.jpg" width="400"> | <img src="pictures/d6p2s7.jpg" width="400"> |
+
+```
+curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
+```
