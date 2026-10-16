@@ -15,7 +15,8 @@
 | <img src="pictures/lygzqq.jpg" width="400"> | <img src="pictures/d6p2s7.jpg" width="400"> |
 | <img src="pictures/3q3j6y.jpg" width="400"> | <img src="pictures/jxqyrq.jpg" width="400"> |
 | <img src="pictures/rqyk2m.jpg" width="400"> | <img src="pictures/zpvdzv.jpg" width="400"> |
-| <img src="pictures/h7t4m9.png" width="400"> | <img src="pictures/" width="400"> |
+| <img src="pictures/h7t4m9.png" width="400"> | <img src="pictures/3lgjv3.jpg" width="400"> |
+| <img src="pictures/0p6g73.jpg" width="400"> | <img src="pictures/" width="400"> |
 
 ```
 curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
