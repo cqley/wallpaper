@@ -4,7 +4,7 @@
 |:-:|:-:|
 | <img src="pictures/4v3yzp.png" width="400"> | <img src="pictures/k82oq6.jpg" width="400"> |
 | <img src="pictures/qrlwql.png" width="400"> | <img src="pictures/zpd5dj.jpg" width="400"> |
-| <img src="pictures/k7m2qx.png" width="400"> | <img src="pictures/6l2rgq.jpg" width="400"> |
+| <img src="pictures/49jllk.png" width="400"> | <img src="pictures/6l2rgq.jpg" width="400"> |
 | <img src="pictures/dpvp1j.jpg" width="400"> | <img src="pictures/mp2l68.jpg" width="400"> |
 | <img src="pictures/p4w9q1.jpg" width="400"> | <img src="pictures/r8v3t5.jpg" width="400"> |
 | <img src="pictures/f2z6h4.png" width="400"> | <img src="pictures/dgeyql.jpg" width="400"> |
@@ -23,7 +23,6 @@
 | <img src="pictures/l8vxwl.png" width="400"> | <img src="pictures/8gedj1.png" width="400"> |
 | <img src="pictures/gj1g57.jpg" width="400"> | <img src="pictures/8o67q1.jpg" width="400"> |
 | <img src="pictures/83k6gk.png" width="400"> | <img src="pictures/qrgr8d.jpg" width="400"> |
-| <img src="pictures/49jllk.png" width="400"> | <img src="pictures/" width="400"> |
 
 ```
 curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
